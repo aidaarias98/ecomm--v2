@@ -5,7 +5,7 @@
 const express= require('express');
 const  mysql= require('mysql');
 const  cors= require('cors');
-const path=require('path');
+const path =require('path');
 
 const app = express()
 app.use(express.json());
@@ -42,9 +42,14 @@ app.get('/products', (req,res)=>{
 
 //EXPRESS USING PATH
 
-app.use(express.static(path.join(__dirname, './client', './build')));
+// app.use(express.static(path.join(__dirname, './client1', './build')));
+// app.use((req,res)=>{
+//     res.sendFile(path.join(__dirname, './client1', './build', 'index.html'));
+// });
+
+app.use(express.static(path.join(__dirname, './build')));
 app.use((req,res)=>{
-    res.sendFile(path.join(__dirname, './client', './build', 'index.html'));
+    res.sendFile(path.join(__dirname, './build', 'index.html'));
 });
 
 

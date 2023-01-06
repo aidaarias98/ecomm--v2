@@ -1,7 +1,7 @@
 import React from 'react'
-import Instagram from '../assets/instagram.png'
-import Facebook from '../assets/facebook.png'
-import Twitter from '../assets/twitter.png'
+import Instagram from '../../assets/instagram.png'
+import Facebook from '../../assets/facebook.png'
+import Twitter from '../../assets/twitter.png'
 import './Footer.css'
 
 

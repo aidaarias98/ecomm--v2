@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12f8d914.css",
-    "main.js": "/static/js/main.c23bcd15.js",
+    "main.js": "/static/js/main.16456b4a.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/SZA - Garden (Say It Like Dat) (Official Video).mp4": "/static/media/SZA - Garden (Say It Like Dat) (Official Video).e0001f7e52261e798226.mp4",
     "static/media/Selena - La Carcacha (Official Music Video).mp4": "/static/media/Selena - La Carcacha (Official Music Video).4f9fe5eb56057bec64b3.mp4",
@@ -28,11 +28,11 @@
     "static/media/TS13.webp": "/static/media/TS13.7e8db892dff8f638d81d.webp",
     "index.html": "/index.html",
     "main.12f8d914.css.map": "/static/css/main.12f8d914.css.map",
-    "main.c23bcd15.js.map": "/static/js/main.c23bcd15.js.map",
+    "main.16456b4a.js.map": "/static/js/main.16456b4a.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12f8d914.css",
-    "static/js/main.c23bcd15.js"
+    "static/js/main.16456b4a.js"
   ]
 }

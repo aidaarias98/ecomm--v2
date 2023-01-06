@@ -5,10 +5,7 @@ import About from './pages/About/About'
 import Products from './pages/Products/Products'
 import Contact from './pages/Contact/Contact'
 import Navigation from './components/NavBar/Navigation'
-
-
-
-import Footer from './components/Footer'
+import Footer from './components/Footer/Footer'
 import './App.css'
 
 function App() {

@@ -34,8 +34,7 @@ function Navigation() {
       <div className='navbar-container'>
         <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
         <img src={Logo} alt='logo' style={{width:'50px'}} ></img>
-       
-        x100pre Records
+        <p className='logotitle'>x100pre Records </p>
         </Link>
         <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'}/>
@@ -69,7 +68,6 @@ function Navigation() {
 }
 
 export default Navigation
-
 
 
 

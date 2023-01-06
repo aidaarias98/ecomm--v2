@@ -19,18 +19,18 @@
 }
 
 .navbar-logo {
-  color: #fff;
+  color: white;
   justify-self: start;
   margin-left: 20px;
   cursor: pointer;
   text-decoration: none;
-  font-size: 2rem;
+  /* font-size: 2rem; */
   display: flex;
   align-items: center;
 }
 
 .logotitle{
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
   display: flex;
   justify-content: flex-end;
@@ -85,9 +85,7 @@
 
 @media screen and (max-width: 960px) {
   .NavbarItems {
-    position: relative;
-    
-    
+    position: relative; 
   }
 
   .nav-menu {

@@ -2,6 +2,7 @@
   margin:0;
   padding: 0;
   box-sizing: border-box;
+ 
 }
 
 a{
@@ -17,12 +18,14 @@ a{
   display: flex;
   align-items: flex-end;
   justify-content: center;
+  margin-top: -20px;
 }
 
 .header-content{
   margin-bottom: 150px;
   color: white;
   text-align: center;
+  
 }
 
 .header-content h2{
